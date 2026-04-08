@@ -10,6 +10,8 @@
     
     - replace return None in functions with better explanation for ai
 
-    - change src.tools.tmdb.main to src.tools.tmdb
-
     - dry rule recode
+
+- test
+
+    - rewrite ai written test
